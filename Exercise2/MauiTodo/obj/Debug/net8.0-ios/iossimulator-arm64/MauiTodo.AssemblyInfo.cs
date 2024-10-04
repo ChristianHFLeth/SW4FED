@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiTodo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c99793bb01705cef1ce9c2b1e2f226427a212fc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiTodo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiTodo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
